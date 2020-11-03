@@ -19,3 +19,7 @@ Suggests:
     testthat,
     covr
 VignetteBuilder: knitr
+LinkingTo: 
+    Rcpp
+Imports: 
+    Rcpp
